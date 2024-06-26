@@ -14,7 +14,7 @@ Welcome to the CPU Scheduler Project repository! This project demonstrates vario
 
 ## Introduction
 
-The CPU Scheduler Project is designed to simulate and visualize different CPU scheduling algorithms, which are crucial for process management in an operating system. This project helps in understanding how these algorithms work and their efficiency in different scenarios.
+The CPU Scheduler Project is designed to simulate and visualize different CPU scheduling algorithms, which are crucial for process management in an operating system. This project helps in understanding how these algorithms work and their efficiency in different scenarios. This was our project for our college.
 
 ## Features
 
