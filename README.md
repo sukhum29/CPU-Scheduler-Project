@@ -69,6 +69,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ---
 
-Feel free to explore and contribute to this project. If you encounter any issues or have suggestions, please open an issue on GitHub.
+Feel free to explore and contribute to this particular project. If you encounter any issues or have suggestions, please open an issue on GitHub.
 
 For more details, visit the [CPU Scheduler Project repository](https://github.com/sukhum29/CPU-Scheduler-Project).
